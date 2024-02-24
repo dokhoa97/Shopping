@@ -1,0 +1,284 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Sinh tố cam",
+            "price": "25000",
+            "rating": 7,
+            "quantity": 1,
+            "newPrice": "25000",
+            "category": "st",
+            "images": "https://cdn.tgdd.vn/Files/2020/02/05/1234432/cac-loai-sinh-to-vua-ngon-vua-tang-suc-de-khang-cho-co-the-202002051043265344.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Sinh tố cà rốt",
+            "price": "25000",
+            "rating": 6,
+            "category": "st",
+            "images": "https://cdn.tgdd.vn/Files/2020/02/05/1234432/cac-loai-sinh-to-vua-ngon-vua-tang-suc-de-khang-cho-co-the-202201251330521218.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Sinh tố cà chua",
+            "price": "25000",
+            "rating": 6,
+            "category": "st",
+            "images": "https://cdn.tgdd.vn/Files/2020/02/05/1234432/cac-loai-sinh-to-vua-ngon-vua-tang-suc-de-khang-cho-co-the-202002051043426255.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Sinh tố rau cải xoăn kale",
+            "price": "25000",
+            "rating": 4,
+            "category": "st",
+            "images": "https://cdn.tgdd.vn/Files/2020/02/05/1234432/cac-loai-sinh-to-vua-ngon-vua-tang-suc-de-khang-cho-co-the-202201251332450992.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Sinh tố xoài với sữa tươi",
+            "price": "25000",
+            "rating": 8,
+            "category": "st",
+            "images": "https://cdn.tgdd.vn/Files/2020/02/05/1234432/cac-loai-sinh-to-vua-ngon-vua-tang-suc-de-khang-cho-co-the-202002051043597414.png"
+        },
+        {
+            "id": 6,
+            "title": "Sinh tố dâu tây",
+            "price": "30000",
+            "rating": 8,
+            "category": "st",
+            "images": "https://cdn.tgdd.vn/Files/2020/02/05/1234432/cac-loai-sinh-to-vua-ngon-vua-tang-suc-de-khang-cho-co-the-202201251334079351.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Sinh tố chuối kiwi",
+            "price": "25000",
+            "rating": 5,
+            "category": "st",
+            "images": "https://cdn.tgdd.vn/Files/2020/02/05/1234432/cac-loai-sinh-to-vua-ngon-vua-tang-suc-de-khang-cho-co-the-202201251336196000.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Sinh tố rau bina",
+            "price": "20000",
+            "rating": 3,
+            "category": "st",
+            "images": "https://cdn.tgdd.vn/Files/2020/02/05/1234432/cac-loai-sinh-to-vua-ngon-vua-tang-suc-de-khang-cho-co-the-202002051044423855.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Sinh tố bơ",
+            "price": "25000",
+            "rating": 9,
+            "category": "st",
+            "images": "https://cdn.tgdd.vn/Files/2020/02/05/1234432/cac-loai-sinh-to-vua-ngon-vua-tang-suc-de-khang-cho-co-the-202002051044279255.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Sinh tố đu đủ",
+            "price": "25000",
+            "rating": 6,
+            "category": "st",
+            "images": "https://cdn.tgdd.vn/Files/2020/02/05/1234432/cac-loai-sinh-to-vua-ngon-vua-tang-suc-de-khang-cho-co-the-202201251347098737.jpg"
+        },
+        {
+            "id": 11,
+            "title": "Sinh tố việt quất sữa tươi",
+            "price": "35000",
+            "rating": 9,
+            "category": "st",
+            "images": "https://cdn.tgdd.vn/Files/2020/02/05/1234432/cac-loai-sinh-to-vua-ngon-vua-tang-suc-de-khang-cho-co-the-202201251347242620.jpg"
+        },
+        {
+            "id": 12,
+            "title": "Sinh tố dưa gang",
+            "price": "25000",
+            "rating": 5,
+            "category": "st",
+            "images": "https://cdn.tgdd.vn/Files/2020/02/05/1234432/cac-loai-sinh-to-vua-ngon-vua-tang-suc-de-khang-cho-co-the-202201251348116748.jpg"
+        },
+        {
+            "id": 13,
+            "title": "Nước ép táo",
+            "price": "18000",
+            "rating": 6,
+            "category": "ne",
+            "images": "https://tse4.mm.bing.net/th?id=OIP.VVFlMnnFlXxhA_Xen6JOSQHaEL&pid=Api&P=0&h=180"
+        },
+        {
+            "id": 14,
+            "title": "Nước ép xoài",
+            "price": "18000",
+            "rating": 6,
+            "category": "ne",
+            "images": "https://tse2.mm.bing.net/th?id=OIP.a2s4E2dW7tKObpSILxVn9gHaE8&pid=Api&P=0&h=180"
+        },
+        {
+            "id": 15,
+            "title": "Nước ép dưa hấu",
+            "price": "16000",
+            "rating": 5,
+            "category": "ne",
+            "images": "https://tse4.mm.bing.net/th?id=OIP.LzRjh8D0TLdzmKUGYYfEUQHaEL&pid=Api&P=0&h=180"
+        },
+        {
+            "id": 16,
+            "title": "Nước ép dưa leo",
+            "price": "130000",
+            "rating": 4,
+            "category": "ne",
+            "images": "https://dayphache.edu.vn/wp-content/uploads/2020/05/trang-tri-nuoc-ep-dua-leo.jpg"
+        },
+        {
+            "id": 17,
+            "title": "Nước ép ổi",
+            "price": "16000",
+            "rating": 5,
+            "category": "ne",
+            "images": "https://tse3.mm.bing.net/th?id=OIP.qhdlz1WD-yzTy9BiGPLeSQHaE8&pid=Api&P=0&h=180"
+        },
+        {
+            "id": 18,
+            "title": "Nước ép cần tây",
+            "price": "15000",
+            "rating": 4,
+            "category": "ne",
+            "images": "https://tse4.mm.bing.net/th?id=OIP.c73m3lDwz3swJ_Pway3umgHaEz&pid=Api&P=0&h=180"
+        },
+        {
+            "id": 19,
+            "title": "Trà Sữa Socola",
+            "price": "30000",
+            "rating": 7,
+            "category": "ts",
+            "images": "https://tocotocotea.com/wp-content/uploads/2021/01/Tra-Sua-Socola-1-copy.jpg"
+        },
+        {
+            "id": 20,
+            "title": "Trà Sữa ",
+            "price": "30000",
+            "rating": 7,
+            "category": "ts",
+            "images": "https://tocotocotea.com/wp-content/uploads/2021/01/Tra-Sua-1-copy.jpg"
+        },
+        {
+            "id": 21,
+            "title": "Trà Sữa dâu",
+            "price": "30000",
+            "rating": 7,
+            "category": "ts",
+            "images": "https://tocotocotea.com/wp-content/uploads/2021/01/Tra-Sua-Dau-Tay-2-copy.jpg"
+        },
+        {
+            "id": 22,
+            "title": "Trà Sữa Ô long",
+            "price": "30000",
+            "rating": 5,
+            "category": "ts",
+            "images": "https://tocotocotea.com/wp-content/uploads/2021/01/Tra-O-Long-Sua-2-copy.jpg"
+        },
+        {
+            "id": 23,
+            "title": "Trà Sữa trân châu đường đen",
+            "price": "35000",
+            "rating": 7,
+            "category": "ts",
+            "images": "https://tse3.mm.bing.net/th?id=OIP.UtHqjTlZ_9wTNH0AC2ypwAHaHc&pid=Api&P=0&h=180"
+        },
+        {
+            "id": 24,
+            "title": "Cafe đen",
+            "price": "15000",
+            "rating": 9,
+            "category": "cf",
+            "images": "https://tocotocotea.com/wp-content/uploads/2023/07/9501a1967827a879f136.jpg"
+        },
+        {
+            "id": 25,
+            "title": "Cafe sữa ",
+            "price": "18000",
+            "rating": 8,
+            "category": "cf",
+            "images": "https://tocotocotea.com/wp-content/uploads/2023/07/170b2e9cf72d27737e3c.jpg"
+        },
+        {
+            "id": 26,
+            "title": "Bạc sĩu ",
+            "price": "18000",
+            "rating": 8,
+            "category": "cf",
+            "images": "https://bonjourcoffee.vn/blog/wp-content/uploads/2020/11/bac-xiu-4-tang.jpg"
+        },
+        {
+            "id": 27,
+            "title": "Soda trà xanh",
+            "price": "15000",
+            "rating": 5,
+            "category": "sd",
+            "images": "https://befresh.vn/wp-content/uploads/2023/04/soda-matcha1-1.jpg"
+        },
+        {
+            "id": 28,
+            "title": "Soda mix xoài",
+            "price": "16000",
+            "rating": 4.69,
+            "category": "sd",
+            "images": "https://befresh.vn/wp-content/uploads/2023/04/soda-xoai-thumbnail-1.jpg"
+        },
+        {
+            "id": 29,
+            "title": "Soda Blue",
+            "price": "16000",
+            "discountPercentage": 12.96,
+            "rating": 4.69,
+            "category": "sd",
+            "images": "https://123phache.com/wp-content/uploads/2020/02/upload_ad390934f31847d7ad770051d375f904_master.jpg"
+        },
+        {
+            "id": 30,
+            "title": "Soda việt quất",
+            "price": "16000",
+            "rating": 4.69,
+            "category": "sd",
+            "images": "https://tse3.mm.bing.net/th?id=OIP.af6Miad_R1OFZ3v1_gr9CgHaHa&pid=Api&P=0&h=180"
+        },
+        {
+            "id": 31,
+            "title": "Soda chanh",
+            "price": "15000",
+            "rating": 4,
+            "category": "sd",
+            "images": "https://tse1.mm.bing.net/th?id=OIP.a9VGy48A8oF3aMJ0ot7iFAHaE7&pid=Api&P=0&h=180"
+        },
+        {
+            "id": 32,
+            "title": "Rau má",
+            "price": "15000",
+            "rating": 7,
+            "category": "rm",
+            "images": "https://tse2.mm.bing.net/th?id=OIP.aNwNPRiK9h7S-3ddp1nPYAHaJ4&pid=Api&P=0&h=180"
+        },
+        {
+            "id": 33,
+            "title": "Rau má đậu xanh",
+            "price": "20000",
+            "rating": 7,
+            "category": "rm",
+            "images": "https://tse2.mm.bing.net/th?id=OIP.pvYOuwnFv2YkHeBdqdv7-wHaEL&pid=Api&P=0&h=180"
+        },
+        {
+            "id": 34,
+            "title": "Rau má sữa dừa",
+            "price": "20000",
+            "rating": 7,
+            "category": "rm",
+            "images": "https://tse1.mm.bing.net/th?id=OIP.odtco4s5nRj4VHPM0B_vIQHaEo&pid=Api&P=0&h=180"
+        }
+    ],
+    "total": [
+        {
+            "total": 34
+        }
+    ]
+}
